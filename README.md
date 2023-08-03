@@ -12,7 +12,7 @@
 </h1>
 
 <div align = "center">
-💼 Software Development Engineer @ Cepheid<br/>
+💼 Software Engineer II @ Cepheid<br/>
 🎓 Computer Science Master's Graduate from UTA<br/>
 🏠 Bay Area, California<br/>
 
